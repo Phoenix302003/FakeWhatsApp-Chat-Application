@@ -1,0 +1,54 @@
+body {
+    background-color: black;
+    margin-left: 20px;
+}
+
+h3 {
+    color: white;
+}
+
+.chat {
+    background-color: aliceblue;
+    display: inline-block;
+    /* height: 150px;
+    width: 200px; */
+    padding: 16px;
+    border-radius: 16px;
+    margin: 10px;
+}
+
+.from {
+    background-color: green;
+    color: white;
+    border-radius: 8px;
+    padding: 3px;
+}
+
+.recieve {
+    background-color:blue;
+    color: white;
+    border-radius: 8px;
+    padding: 3px;
+}
+
+.to {
+    background-color:blanchedalmond;
+    border-radius: 8px;
+    padding: 3px;
+}
+
+.msg {
+    background-color: dodgerblue;
+    border-radius: 8px;
+    padding: 6px;
+    color: white;
+}
+
+.btn {
+    border: none;
+    border-radius: 16px;
+    background-color: yellow;
+    font-size: 1rem;
+    font-weight: 800;
+    padding: 10px;
+}
